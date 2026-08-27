@@ -1,0 +1,42 @@
+atul -----
+  networking={
+       prompt="hey ai , so basically we are making a EDR enabled with ai for our hackathon , in modern days, malware uses many techniques to hide form traditional 
+    edr and av's , so our idea is to make a edr enabled with ai which will do the part . for this we will be using ai api's from gemini for now . so for my subpart
+    i will be checking the networking stastics of the .exe with ai , whether the .exe is trying to connect to the attacker maching and wheather it is trying to connect
+    to a malicious domain or else , so basically i am trying to check the networking of the malware" don't give code yet , just help me research.
+  }
+
+disha ----
+  hashes={
+    prompt="hey ai , so basically we are making a EDR enabled with ai for our hackathon , in modern days, malware uses many techniques to hide form traditional 
+    edr and av's , so our idea is to make a edr enabled with ai which will do the part . for this we will be using ai api's from gemini for now .so for my subpart
+    i am making a solution for api hashing technique that will look at a windoes .exe and find out the hashs from it with their sequence and then it will find out the 
+    hashing algo inside it with ai . then we will use that algo to hash all the winapi and compare them with the hashes present in the file , from this the cli tool will 
+    give us % that how much the .exe is likely a malware based on the api it is using in sequence ." don't give code yer , just help me research.
+  }
+    
+aishwarya------
+  obfuscation={
+   prompt="hey ai , so basically we are making a EDR enabled with ai for our hackathon , in modern days, malware uses many techniques to hide form traditional 
+    edr and av's , so our idea is to make a edr enabled with ai which will do the part . for this we will be using ai api's from gemini for now . so for my subpart i am 
+    deobfuscating the .exe code to find out what the .exe is exactly doing to help other parths of my temmates and feed the data to ai. beside this based on the level of 
+    entropy in the code and the level of obfuscation from that and the data feed to ai , i will give a % of how likely teh .exe is a malware" don't give code yet , just help
+    me research.
+    }
+   
+vedansh-----
+  signature={
+   prompt="hey ai , so basically we are making a EDR enabled with ai for our hackathon , in modern days, malware uses many techniques to hide form traditional 
+    edr and av's , so our idea is to make a edr enabled with ai which will do the part . for this we will be using ai api's from gemini for now . so for my subpart
+    i will be tracking the signature of the current .exe and compare with all the current malware present in the market with ai for accurate results , based on this 
+    i will give % of how likely the .exe is a malware." don't give the code yet , just help me research.
+  }
+bishal------
+   behaviour=
+
+
+
+
+   instructions ==========================
+     after research make a poc , make documentation of research , deadline is 25th aug , code ban gya to mereko send karna . best of luck guys , and i am also sending a .exe
+      don't run it is't a malware , use it for tesing perposes. 
