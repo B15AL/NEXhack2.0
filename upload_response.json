@@ -1,0 +1,15 @@
+{
+  "file": {
+    "name": "files/1246xjfa4nqk",
+    "displayName": "malware.exe",
+    "mimeType": "application/octet-stream",
+    "sizeBytes": "300000",
+    "createTime": "2026-08-28T11:56:29.704952Z",
+    "updateTime": "2026-08-28T11:56:29.704952Z",
+    "expirationTime": "2026-08-30T11:56:28.606895778Z",
+    "sha256Hash": "Y2VmOTIzYTc5ZDJhMmE3ODQ3MmJmNWVjMGM2MGJmY2VlYTZhMDg4Y2EyNGJiNzMyNWYxYWVkNjVlNTYwZGMxZQ==",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/1246xjfa4nqk",
+    "state": "ACTIVE",
+    "source": "UPLOADED"
+  }
+}
